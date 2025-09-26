@@ -45,10 +45,15 @@ This project is a port and enhancement of the original tool by **sherlly**. Full
 ```bash
 python3 PCRT.py -i secret_image.png
 
+**Check and repair a broken image:**
+
+```bash
+python3 PCRT.py -i secret_image.png
+
 ## Example: Before & After Repair
 
 Here is an example of a corrupted image (`secret_image.png`) being repaired into `output.png`.
 
 | Before (Corrupt) | After (Repaired) |
 | :---: | :---: |
-| ![Corrupt Input Image](secret_image.png) | ![Repaired Output Image](output.png) |
+| ![Corrupt Input Image](https://github.com/CodeRustyPro/PCRT-Python3/blob/main/secret_image.png) | ![Repaired Output Image](https://github.com/CodeRustyPro/PCRT-Python3/blob/main/output.png) |
