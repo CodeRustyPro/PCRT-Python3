@@ -44,7 +44,7 @@ This project is a port and enhancement of the original tool by **sherlly**. Full
 **Check and repair a broken image:**
 ```bash
 python3 PCRT.py -i secret_image.png
-
+```
 **Check and repair a broken image:**
 
 ```bash
