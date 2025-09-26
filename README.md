@@ -45,7 +45,7 @@ This project is a port and enhancement of the original tool by **sherlly**. Full
 ```bash
 python3 PCRT.py -i secret_image.png
 ```
-\
+
 ## Example: Before & After Repair
 
 Here is an example of a corrupted image (`secret_image.png`) being repaired into `output.png`.
